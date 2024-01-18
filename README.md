@@ -25,7 +25,7 @@ pip install -U pip
 Then, the installation is done simply with a single command:
 
 ```console
-pip install git+https://github.com/marcolardera/chatgpt-cli
+pip install git+https://github.com/itachi1621/chatgpt-cli
 ```
 
 After that, you need to configure your API Key. There are three alternative ways to provide this parameter:
